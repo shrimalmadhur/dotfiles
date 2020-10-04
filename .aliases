@@ -1,0 +1,2 @@
+alias dir='ll'
+alias gs='git status'
