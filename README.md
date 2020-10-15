@@ -1,2 +1,2 @@
 # dotfiles
-Trying to save my dot files.
+Config files for local setup
